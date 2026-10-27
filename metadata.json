@@ -1,0 +1,8 @@
+{
+  "name": "SpendWise Expense Tracker",
+  "description": "A modern personal finance tracker to log expenses, categorize spending, and visualize category breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
